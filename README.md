@@ -3,5 +3,5 @@ Frontend básico en PHP puro para inmobiliarias y/o contructoras. Posee archivo 
 
 
 # fuentes
-Este repositorio está basado en una platilla de la https://www.w3schools.com/
+Este repositorio está basado en una platilla de la W3schools
 <a href="https://www.w3schools.com/w3css/w3css_templates.asp" target="_blanck">https://www.w3schools.com/w3css/w3css_templates.asp</a>
